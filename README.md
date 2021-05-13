@@ -1,6 +1,5 @@
 # Hi there, I'm João Carlos, Javascript Developer! :sunglasses:
 
-![GitHub followers](https://github.com/joaocarlopa?tab=followers)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-giovanne)](https://www.linkedin.com/in/joaocarlopa/)
 
 I am a Frontend developer with knowledge in **React**, **HTML**, **CSS** with a focus on creating websites but still studying **NodeJS**.
