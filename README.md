@@ -4,6 +4,8 @@
 
 I am a Frontend developer with knowledge in **React**, **HTML**, **CSS** and studying **Vue**.
 
+<img href='./snake.svg' />
+
 :heavy_check_mark: A little list about myself:
 
 * :books: A complete enthusiast of programming;
