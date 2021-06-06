@@ -8,7 +8,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=joaocarlopa alt=joaocarlopa /> </p>
 
-<img src='./snake.svg' />
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=joaocarlopa&show_icons=true&include_all_commits=true)](https://github.com/joaocarlopa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlopa&layout=compact)](https://github.com/joaocarlopa/github-readme-stats)
