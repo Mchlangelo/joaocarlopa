@@ -1,6 +1,6 @@
 ## Hey 👋, This is João Carlos Pereira Alves
 [![Gmail Badge](https://img.shields.io/badge/-joaocarlopa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joaocarlopa@gmail.com)](mailto:joaocarlopa@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-joaocarlopa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocarlopa/)](https://www.linkedin.com/in/joaocarlopa/) [![Github Badge](https://img.shields.io/badge/-joaocarlopa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joaocarlopa/)](https://www.github.com/joaocarlopa/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vue-js.vercel.app/#//)](https://portfolio-vue-js.vercel.app/#//) <p align='left'>
+[![Linkedin Badge](https://img.shields.io/badge/-joaocarlopa-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaocarlopa/)](https://www.linkedin.com/in/joaocarlopa/) [![Github Badge](https://img.shields.io/badge/-joaocarlopa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joaocarlopa/)](https://www.github.com/joaocarlopa/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vue-js.vercel.app/#//)](https://portfolio-vue-js.vercel.app/#/) <p align='left'>
 
   I am a Frontend developer with knowledge in **React**, **HTML**, **CSS** and studying **Vue**.
 
