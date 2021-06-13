@@ -11,6 +11,8 @@
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=joaocarlopa&show_icons=true&theme=light)
 
+<img src='./snake.svg' />
+
 
 
 
